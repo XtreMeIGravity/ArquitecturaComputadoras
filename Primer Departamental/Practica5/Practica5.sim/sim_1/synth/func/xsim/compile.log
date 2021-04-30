@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Arquitectura de Computadoras/Primer Departamental/Practica5/Practica5.sim/sim_1/synth/func/xsim/simAlu_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Alu4Bits
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Arquitectura de Computadoras/Primer Departamental/Practica5/Practica5.srcs/sim_1/new/simAlu.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'simAlu'

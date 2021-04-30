@@ -1,0 +1,1 @@
+-wto "76559e2672444e678d6ceb275193bde7" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "simSumadorAcarreoAnticipado_behav" "xil_defaultlib.simSumadorAcarreoAnticipado" -log "elaborate.log" 

@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Practica9_UC.srcs/sources_1/new/UnidadDeControl.vhd" \
+"../../../../Practica9_UC.srcs/sim_1/new/sim_UnidadDeControl.vhd" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Wed Nov  4 21:49:22 2020
+# Process ID: 6628
+# Current directory: C:/Arquitectura de Computadoras/Primer Departamental/Practica3/Practica3.runs/synth_1
+# Command line: vivado.exe -log SRCompleto.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source SRCompleto.tcl
+# Log file: C:/Arquitectura de Computadoras/Primer Departamental/Practica3/Practica3.runs/synth_1/SRCompleto.vds
+# Journal file: C:/Arquitectura de Computadoras/Primer Departamental/Practica3/Practica3.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source SRCompleto.tcl -notrace

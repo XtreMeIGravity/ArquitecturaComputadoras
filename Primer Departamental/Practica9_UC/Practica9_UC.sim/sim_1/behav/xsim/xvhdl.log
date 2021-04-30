@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "F:/Proyectos/Arquitectura de Computadoras/Primer Departamental/Practica9_UC/Practica9_UC.srcs/sources_1/new/UnidadDeControl.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'UnidadDeControl'
+INFO: [VRFC 10-163] Analyzing VHDL file "F:/Proyectos/Arquitectura de Computadoras/Primer Departamental/Practica9_UC/Practica9_UC.srcs/sim_1/new/sim_UnidadDeControl.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tbUnidadControl'

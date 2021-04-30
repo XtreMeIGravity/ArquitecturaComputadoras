@@ -1,0 +1,28 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"C:/Users/David/Downloads/Practica11/Condicion/Condicion.srcs/sources_1/new/Condicion.vhd" \
+"../../../../ESCOMIPS.srcs/sources_1/new/componentesProce.vhd" \
+"../../../../ESCOMIPS.srcs/sources_1/new/ESCOMIPS.vhd" \
+"C:/Users/David/Downloads/ESCOMIPS/ExtensorDireccion/ExtensorDireccion.srcs/sources_1/new/ExtensorDireccion.vhd" \
+"C:/Users/David/Downloads/ESCOMIPS/ExtensorSigno/ExtensorSigno.srcs/sources_1/new/ExtensorSigno.vhd" \
+"C:/Users/David/Downloads/Practica11/mFunCode/mFunCode.srcs/sources_1/new/MfunCode.vhd" \
+"C:/Users/David/Downloads/Practica11/MopCode/MopCode.srcs/sources_1/new/MopCode.vhd" \
+"../../../../ESCOMIPS.srcs/sources_1/new/Multiplexor_16bits.vhd" \
+"../../../../ESCOMIPS.srcs/sources_1/new/Multiplexor_4bits.vhd" \
+"C:/Users/David/Downloads/Practica11/Nivel/Nivel.srcs/sources_1/new/Nivel.vhd" \
+"C:/Users/David/Downloads/Practica11/Registro/Registro.srcs/sources_1/new/Registro.vhd" \
+"../../../../ESCOMIPS.srcs/sources_1/new/Registro16.vhd" \
+"C:/Users/David/Downloads/Practica11/unidadC/unidadC.srcs/sources_1/new/UnidadC.vhd" \
+"../../../../ESCOMIPS.srcs/sources_1/new/alu.vhd" \
+"../../../../ESCOMIPS.srcs/sources_1/new/aluComponentes.vhd" \
+"C:/Users/David/Downloads/Practica11/decodificadorInst/decodificadorInst.srcs/sources_1/new/decoIns.vhd" \
+"../../../../ESCOMIPS.srcs/sources_1/new/memData.vhd" \
+"../../../../ESCOMIPS.srcs/sources_1/new/memProg.vhd" \
+"C:/Users/David/Downloads/Practica11/muxCodes/muxCodes.srcs/sources_1/new/muxCodes.vhd" \
+"C:/Users/David/Downloads/Practica11/muxOpCode/muxOpCode.srcs/sources_1/new/muxOpCode.vhd" \
+"../../../../ESCOMIPS.srcs/sources_1/new/pila.vhd" \
+"C:/Users/David/Downloads/Practica11/unidadControlC/project_1.srcs/sources_1/new/unidadControlC.vhd" \
+"../../../../ESCOMIPS.srcs/sim_1/new/tbESCOMIPS.vhd" \
+
+# Do not sort compile order
+nosort

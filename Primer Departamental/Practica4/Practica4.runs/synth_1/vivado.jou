@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sun Nov  8 02:40:52 2020
+# Process ID: 3524
+# Current directory: C:/Arquitectura de Computadoras/Primer Departamental/Practica4/Practica4.runs/synth_1
+# Command line: vivado.exe -log SumadorAcarreoAnticipado.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source SumadorAcarreoAnticipado.tcl
+# Log file: C:/Arquitectura de Computadoras/Primer Departamental/Practica4/Practica4.runs/synth_1/SumadorAcarreoAnticipado.vds
+# Journal file: C:/Arquitectura de Computadoras/Primer Departamental/Practica4/Practica4.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source SumadorAcarreoAnticipado.tcl -notrace

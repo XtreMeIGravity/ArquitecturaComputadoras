@@ -1,0 +1,13 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../practica9.srcs/sources_1/new/Componentes.vhd" \
+"../../../../practica9.srcs/sources_1/new/CartaASM.vhd" \
+"../../../../practica9.srcs/sources_1/new/Contador.vhd" \
+"../../../../practica9.srcs/sources_1/new/Deco.vhd" \
+"../../../../practica9.srcs/sources_1/new/Mux.vhd" \
+"../../../../practica9.srcs/sources_1/new/Registro.vhd" \
+"../../../../practica9.srcs/sources_1/new/UnidadDeControl.vhd" \
+"../../../../practica9.srcs/sim_1/new/sim_CartaASM.vhd" \
+
+# Do not sort compile order
+nosort

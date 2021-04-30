@@ -1,0 +1,6 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../Practica4.srcs/sim_1/new/simSumadorAcarreoAnticipado.vhd" \
+
+# Do not sort compile order
+nosort

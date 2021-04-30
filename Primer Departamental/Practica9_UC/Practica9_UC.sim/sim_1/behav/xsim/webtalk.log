@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Tue Dec 22 20:30:30 2020
+# Process ID: 14996
+# Current directory: F:/Proyectos/Arquitectura de Computadoras/Primer Departamental/Practica9_UC/Practica9_UC.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source F:/Proyectos/Arquitectura de Computadoras/Primer Departamental/Practica9_UC/Practica9_UC.sim/sim_1/behav/xsim/xsim.dir/tbUnidadControl_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: F:/Proyectos/Arquitectura de Computadoras/Primer Departamental/Practica9_UC/Practica9_UC.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: F:/Proyectos/Arquitectura de Computadoras/Primer Departamental/Practica9_UC/Practica9_UC.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source F:/Proyectos/Arquitectura -notrace
+couldn't read file "F:/Proyectos/Arquitectura": permission denied
+INFO: [Common 17-206] Exiting Webtalk at Tue Dec 22 20:30:30 2020...

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Tue Dec 22 19:20:51 2020
+# Process ID: 17148
+# Current directory: F:/Proyectos/Arquitectura de Computadoras/Primer Departamental/Practica9_Mux/Practica9_Mux.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source F:/Proyectos/Arquitectura de Computadoras/Primer Departamental/Practica9_Mux/Practica9_Mux.sim/sim_1/behav/xsim/xsim.dir/sim_Mux_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: F:/Proyectos/Arquitectura de Computadoras/Primer Departamental/Practica9_Mux/Practica9_Mux.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: F:/Proyectos/Arquitectura de Computadoras/Primer Departamental/Practica9_Mux/Practica9_Mux.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source F:/Proyectos/Arquitectura -notrace

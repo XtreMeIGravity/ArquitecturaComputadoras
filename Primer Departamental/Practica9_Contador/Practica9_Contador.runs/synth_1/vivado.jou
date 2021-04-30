@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Mon Dec 21 05:09:51 2020
+# Process ID: 15496
+# Current directory: F:/Proyectos/Arquitectura de Computadoras/Primer Departamental/Practica9_Contador/Practica9_Contador.runs/synth_1
+# Command line: vivado.exe -log Contador.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Contador.tcl
+# Log file: F:/Proyectos/Arquitectura de Computadoras/Primer Departamental/Practica9_Contador/Practica9_Contador.runs/synth_1/Contador.vds
+# Journal file: F:/Proyectos/Arquitectura de Computadoras/Primer Departamental/Practica9_Contador/Practica9_Contador.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Contador.tcl -notrace

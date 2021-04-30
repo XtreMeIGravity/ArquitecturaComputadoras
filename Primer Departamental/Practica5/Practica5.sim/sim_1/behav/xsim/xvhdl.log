@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Arquitectura de Computadoras/Primer Departamental/Practica5/Practica5.srcs/sources_1/new/Alu1Bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Alu1Bit'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Arquitectura de Computadoras/Primer Departamental/Practica5/Practica5.srcs/sim_1/new/simAlu.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'simAlu'

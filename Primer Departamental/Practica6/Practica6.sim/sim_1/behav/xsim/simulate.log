@@ -1,0 +1,22 @@
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+Error: File C:\Users\David\Downloads\FilesP6\entradas.txt is already at the end of file, nothing to read
+Time: 115 ns  Iteration: 1  Process: /Sim_Registro16/stim_proc  File: C:/Arquitectura de Computadoras/Primer Departamental/Practica6/Practica6.srcs/sim_1/new/Sim_Registro16.vhd
+Error: STD_LOGIC_1164.HREAD End of string encountered
+Time: 115 ns  Iteration: 1  Process: /Sim_Registro16/stim_proc  File: C:/Arquitectura de Computadoras/Primer Departamental/Practica6/Practica6.srcs/sim_1/new/Sim_Registro16.vhd
+Error: STD_LOGIC_1164.HREAD End of string encountered
+Time: 115 ns  Iteration: 1  Process: /Sim_Registro16/stim_proc  File: C:/Arquitectura de Computadoras/Primer Departamental/Practica6/Practica6.srcs/sim_1/new/Sim_Registro16.vhd
+Error: STD_LOGIC_1164.HREAD End of string encountered
+Time: 115 ns  Iteration: 1  Process: /Sim_Registro16/stim_proc  File: C:/Arquitectura de Computadoras/Primer Departamental/Practica6/Practica6.srcs/sim_1/new/Sim_Registro16.vhd
+Error: STD_LOGIC_1164.HREAD End of string encountered
+Time: 115 ns  Iteration: 1  Process: /Sim_Registro16/stim_proc  File: C:/Arquitectura de Computadoras/Primer Departamental/Practica6/Practica6.srcs/sim_1/new/Sim_Registro16.vhd
+Error: STD_LOGIC_1164.HREAD End of string encountered
+Time: 115 ns  Iteration: 1  Process: /Sim_Registro16/stim_proc  File: C:/Arquitectura de Computadoras/Primer Departamental/Practica6/Practica6.srcs/sim_1/new/Sim_Registro16.vhd
+Error: STD_LOGIC_1164.READ(STD_ULOGIC) End of string encountered
+Time: 115 ns  Iteration: 1  Process: /Sim_Registro16/stim_proc  File: C:/Arquitectura de Computadoras/Primer Departamental/Practica6/Practica6.srcs/sim_1/new/Sim_Registro16.vhd
+Error: STD_LOGIC_1164.READ(STD_ULOGIC) End of string encountered
+Time: 115 ns  Iteration: 1  Process: /Sim_Registro16/stim_proc  File: C:/Arquitectura de Computadoras/Primer Departamental/Practica6/Practica6.srcs/sim_1/new/Sim_Registro16.vhd
+Error: STD_LOGIC_1164.READ(STD_ULOGIC) End of string encountered
+Time: 115 ns  Iteration: 1  Process: /Sim_Registro16/stim_proc  File: C:/Arquitectura de Computadoras/Primer Departamental/Practica6/Practica6.srcs/sim_1/new/Sim_Registro16.vhd
+Error: STD_LOGIC_1164.READ(STD_ULOGIC) End of string encountered
+Time: 115 ns  Iteration: 1  Process: /Sim_Registro16/stim_proc  File: C:/Arquitectura de Computadoras/Primer Departamental/Practica6/Practica6.srcs/sim_1/new/Sim_Registro16.vhd

@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Practica8.srcs/sources_1/new/Pila.vhd" \
+"../../../../Practica8.srcs/sim_1/new/sim_Pila.vhd" \
+
+# Do not sort compile order
+nosort

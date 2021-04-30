@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Tue Dec 22 20:27:14 2020
+# Process ID: 12124
+# Current directory: F:/Proyectos/Arquitectura de Computadoras/Primer Departamental/Practica9_Mux/Practica9_Mux.runs/synth_1
+# Command line: vivado.exe -log Mux.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Mux.tcl
+# Log file: F:/Proyectos/Arquitectura de Computadoras/Primer Departamental/Practica9_Mux/Practica9_Mux.runs/synth_1/Mux.vds
+# Journal file: F:/Proyectos/Arquitectura de Computadoras/Primer Departamental/Practica9_Mux/Practica9_Mux.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Mux.tcl -notrace

@@ -1,0 +1,10 @@
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto 76559e2672444e678d6ceb275193bde7 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L secureip --snapshot simSumadorAcarreoAnticipado_func_synth xil_defaultlib.simSumadorAcarreoAnticipado xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+ERROR: [VRFC 10-3146] binding entity '\SumadorAcarreoAnticipado\' does not have generic 'n' [C:/Arquitectura de Computadoras/Primer Departamental/Practica4/Practica4.srcs/sim_1/new/simSumadorAcarreoAnticipado.vhd:11]
+ERROR: [VRFC 10-664] expression has 8 elements ; expected 4 [C:/Arquitectura de Computadoras/Primer Departamental/Practica4/Practica4.srcs/sim_1/new/simSumadorAcarreoAnticipado.vhd:12]
+ERROR: [VRFC 10-664] expression has 8 elements ; expected 4 [C:/Arquitectura de Computadoras/Primer Departamental/Practica4/Practica4.srcs/sim_1/new/simSumadorAcarreoAnticipado.vhd:13]
+ERROR: [XSIM 43-3322] Static elaboration of top level Verilog design unit(s) in library work failed.
